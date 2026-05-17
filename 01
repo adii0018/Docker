@@ -1,0 +1,21 @@
+🖥️ Host
+Host basically tumhara physical machine ya main operating system hota hai.
+
+Ye hardware resources (CPU, RAM, Disk, Network) ko manage karta hai aur unhe applications ko provide karta hai.
+
+Example: Agar tum Windows ya Linux install karke apna laptop use kar rahe ho, to wo tumhara host OS hai.
+
+⚙️ Kernel
+Kernel ek core part of operating system hota hai jo directly hardware ke saath interact karta hai.
+
+Ye ek bridge hai jo hardware aur applications ke beech communication karata hai.
+
+Kernel ke kaam:
+
+Memory management (RAM allocate karna)
+
+Process scheduling (kaunsa program CPU use karega)
+
+Device management (keyboard, disk, network handle karna)
+
+Security aur isolation
