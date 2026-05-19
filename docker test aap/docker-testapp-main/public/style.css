@@ -2,7 +2,7 @@ body {
     text-align: center;
 }
 #formBtn {
-    color: white;
+    color: rgb(195, 14, 14);
     background-color:coral;
     border: none;
     border-radius: 2px;
@@ -13,7 +13,7 @@ body {
 }
 
 form {
-    border: 2px solid grey;
+    border: 2px solid rgb(0, 136, 118);
     display: inline-block;
     padding: 2rem;
     border-radius: 0.5rem;
