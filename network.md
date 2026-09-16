@@ -16,4 +16,4 @@ Maan lijiye 127.0.0.1 aapki poori society (building) ka address hai.
 Ab us building mein alag-alag kaam ke liye alag-alag kamre (doors) hain. In kamron ko Port bolte hain.
 Aapka Backend 5000 number ke kamre mein chal raha hai (127.0.0.1:5000).
 Aur aapka Mongo Express (Database GUI) 8081 number ke kamre mein chal raha hai (127.0.0.1:8081).
-Summary: Jab aap http://127.0.0.1:8081 likhte hain, toh aap computer se keh rahe hote hain: "Bhai internet par mat jaana, mere hi laptop (127.0.0.1) ke andar jo program door number 8081 par chal raha hai, mujhe wo screen par dikha do."
+Summary: Jab aap http://127.0.0.1:8081 likhte hain, toh aap computer se keh rahe hote hain: "Bhai internet par mat jaana, mere hi laptop (127.0.0.1) ke andar jo program door number 8081 par chal raha hai, mujhe wo screen par dikha do.".
