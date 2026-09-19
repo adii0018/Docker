@@ -6,7 +6,7 @@ Ye hardware resources (CPU, RAM, Disk, Network) ko manage karta hai aur unhe app
 Example: Agar tum Windows ya Linux install karke apna laptop use kar rahe ho, to wo tumhara host OS hai.
 
 ⚙️ Kernel
-Kernel ek core part of operating system hota hai jo directly hardware ke saath interact karta hai.
+Kernel ek core part of operating system hota hai jo directly hardware ke saath interact karta hai...
 
 Ye ek bridge hai jo hardware aur applications ke beech communication karata hai.
 
